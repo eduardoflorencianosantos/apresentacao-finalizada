@@ -553,9 +553,6 @@ body {
     overflow: hidden;
 }
 
-.blog-card:is(:hover, :focus-within) .img-cover {
-    transform: scale(1.2);
-}
 
 .blog-card .card-content {
     padding: 15px;
